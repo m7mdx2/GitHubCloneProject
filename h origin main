@@ -1,0 +1,42 @@
+[33mcommit 50b9300ba318ea42922fc405334ddbc67e4f3333[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-greeting[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature-greeting[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Sat Sep 7 18:17:42 2024 +0300
+
+    Add feature description
+
+[33mcommit 73f2d2165b76bdc554914f819a128ca51352c02f[m
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Fri Sep 6 01:07:40 2024 +0300
+
+    fixed
+
+[33mcommit 4d62be612fbe99e4b4aae69d7fa62b2fbd7110a3[m
+Merge: a813cc5 e66e161
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Fri Sep 6 00:51:51 2024 +0300
+
+    Resolve merge conflict between main and feature-greeting
+
+[33mcommit a813cc590f62dbc0eabc4d69042341e14dfbc5ad[m
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Fri Sep 6 00:21:47 2024 +0300
+
+    modification
+
+[33mcommit e66e16117207366f4f165a1b755476f04c75c18d[m
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Fri Sep 6 00:11:40 2024 +0300
+
+    add feature
+
+[33mcommit 723d8b6f5dfa5da29cbdfdb82210d72548b5ea02[m
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Thu Sep 5 15:28:02 2024 +0300
+
+    Add greetings.txt and README.md with content
+
+[33mcommit 61b840e486668f88f9bf59f9b6798063cee1e22d[m
+Author: m7mdx2 <102638262+m7mdx2@users.noreply.github.com>
+Date:   Thu Sep 5 15:21:49 2024 +0300
+
+    Initial commit
